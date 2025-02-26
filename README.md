@@ -5,7 +5,7 @@ CarFix es una landing page moderna desarrollada con React y Vite. Presenta una a
 ## 🚀 Tecnologías Utilizadas
 
 - React con Vite
-- Tailwind CSS para el diseño
+- CSS para el diseño
 - Framer Motion para animaciones
 - LocalStorage para persistencia de datos
 
