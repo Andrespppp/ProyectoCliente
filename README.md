@@ -38,6 +38,13 @@ Aquí hay algunas capturas de pantalla de la aplicación:
 - Footer, con información relevante de la empresa
 ![Footer, con información relevante de la empresa](./public/images/8.png)
 
+```bash
+npm install
+````
+```bash
+npm run dev
+````
+
 
 # React + Vite
 
