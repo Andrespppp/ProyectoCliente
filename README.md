@@ -44,6 +44,10 @@ npm install
 ```bash
 npm run dev
 ````
+```bash
+http://localhost:5173/
+````
+
 
 
 # React + Vite
