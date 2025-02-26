@@ -23,12 +23,19 @@ Aquí hay algunas capturas de pantalla de la aplicación:
 
 - Imagen Principal
 ![Imagen Principal](./public/images/1.png)
+- Slider, para ver los servicios
 ![Slider, para ver los servicios](./public/images/2.png)
+- Cards, para ver los precios con más información
 ![Cards, para ver los precios con más información](./public/images//3.png)
+- CRUD, con persistencia de datos en localstorage
 ![CRUD, con persistencia de datos en localstorage](./public/images/4.png)
+- Bloques, con testimonios de los clientes
 ![Bloques, con testimonios de los clientes](./public/images/5.png)
+- Label con dropdown, preguntas con respuesta oculta
 ![Label con dropdown, preguntas con respuesta oculta](./public/images/6.png)
+- Form de Contacto
 ![Form de Contacto](./public/images/7.png)
+- Footer, con información relevante de la empresa
 ![Footer, con información relevante de la empresa](./public/images/8.png)
 
 
