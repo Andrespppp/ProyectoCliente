@@ -23,7 +23,7 @@ Aquí hay algunas capturas de pantalla de la aplicación:
 
 ![Imagen Principal](./public/images/1.png)
 ![Slider, para ver los servicios](./public/images/2.png)
-![Cards, para ver los precios con más información](./publicimages//3.png)
+![Cards, para ver los precios con más información](./public/images//3.png)
 ![CRUD, con persistencia de datos en localstorage](./public/images/4.png)
 ![Bloques, con testimonios de los clientes](./public/images/5.png)
 ![Label con dropdown, preguntas con respuesta oculta](./public/images/6.png)
