@@ -22,13 +22,13 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 Aquí hay algunas capturas de pantalla de la aplicación:
 
 ![Imagen Principal](./public/images/1.png)
-![Descripción de la imagen 2](./public/images/2.png)
-![Descripción de la imagen 3](./publicimages//3.png)
-![Descripción de la imagen 4](./public/images/4.png)
-![Descripción de la imagen 5](./public/images/5.png)
-![Descripción de la imagen 6](./public/images/6.png)
-![Descripción de la imagen 7](./public/images/7.png)
-![Descripción de la imagen 8](./public/images/8.png)
+![Slider, para ver los servicios](./public/images/2.png)
+![Cards, para ver los precios con más información](./publicimages//3.png)
+![CRUD, con persistencia de datos en localstorage](./public/images/4.png)
+![Bloques, con testimonios de los clientes](./public/images/5.png)
+![Label con dropdown, preguntas con respuesta oculta](./public/images/6.png)
+![Form de Contacto](./public/images/7.png)
+![Footer, con información relevante de la empresa](./public/images/8.png)
 
 
 # React + Vite
