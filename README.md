@@ -21,14 +21,14 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 Aquí hay algunas capturas de pantalla de la aplicación:
 
-![Descripción de la imagen 1](./public/1.png)
-![Descripción de la imagen 2](./public/2.jpg)
-![Descripción de la imagen 3](./public/3.jpg)
-![Descripción de la imagen 4](./public/4.jpg)
-![Descripción de la imagen 5](./public/5.jpg)
-![Descripción de la imagen 6](./public/6.jpg)
-![Descripción de la imagen 7](./public/7.jpg)
-![Descripción de la imagen 8](./public/8.jpg)
+![Descripción de la imagen 1](./public/images/1.png)
+![Descripción de la imagen 2](./public/2.png)
+![Descripción de la imagen 3](./public/3.png)
+![Descripción de la imagen 4](./public/4.png)
+![Descripción de la imagen 5](./public/5.png)
+![Descripción de la imagen 6](./public/6.png)
+![Descripción de la imagen 7](./public/7.png)
+![Descripción de la imagen 8](./public/8.png)
 
 
 # React + Vite
