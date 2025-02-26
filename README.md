@@ -21,6 +21,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 Aquí hay algunas capturas de pantalla de la aplicación:
 
+- Imagen Principal
 ![Imagen Principal](./public/images/1.png)
 ![Slider, para ver los servicios](./public/images/2.png)
 ![Cards, para ver los precios con más información](./public/images//3.png)
