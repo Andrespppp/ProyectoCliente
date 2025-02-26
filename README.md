@@ -21,7 +21,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 Aquí hay algunas capturas de pantalla de la aplicación:
 
-![Descripción de la imagen 1](./public/1.jpg)
+![Descripción de la imagen 1](./public/1.png)
 ![Descripción de la imagen 2](./public/2.jpg)
 ![Descripción de la imagen 3](./public/3.jpg)
 ![Descripción de la imagen 4](./public/4.jpg)
