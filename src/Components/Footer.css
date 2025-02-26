@@ -1,0 +1,32 @@
+/* src/components/Footer.css */
+.footer {
+  background: rgba(0, 0, 0, 0.8); /* Fondo oscuro */
+  color: white;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.footer-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.footer-content h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.footer-content p {
+  margin: 5px 0;
+}
+
+.contact-info {
+  margin: 20px 0;
+}
+
+.footer-bottom {
+  border-top: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 20px 0 0;
+  margin-top: 20px;
+  font-size: 0.9rem;
+}

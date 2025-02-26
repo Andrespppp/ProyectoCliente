@@ -1,0 +1,94 @@
+@import 'tailwindcss';
+.menu-desplegable {
+  /* position: absolute; */
+  top: 100%;
+  right: 10%;
+  width: 370px;
+  max-height: 400px;
+  overflow: hidden;
+}
+.menu {
+  background: #ffffff;
+  padding: 20px;
+  margin: 10px;
+  border-width: 5px;
+  border-color: rgb(112, 113, 113);
+}
+.menu-links {
+  background-color: aqua;
+  display: flex;
+  text-align: center;
+  text-decoration: none;
+  color: #000000;
+  margin: 12px 0;
+}
+.menu-links p {
+  width: 100%;
+}
+.menu-links span {
+  font-size: 22px;
+  transition: transform 0.5s;
+}
+.menu-links:hover span {
+  transform: translateX(5px);
+}
+
+.menu-links:hover p {
+  font-weight: 600;
+}
+
+.boton-reservar {
+  background-color: rgb(20, 122, 194);
+  border-radius: 8%;
+  padding: 10px;
+  margin-top: 20px;
+  margin-left: 10px;
+  color: white;
+}
+.boton-reservar:hover {
+  background-color: rgb(16, 88, 139);
+
+  color: rgb(200, 199, 199);
+}
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */

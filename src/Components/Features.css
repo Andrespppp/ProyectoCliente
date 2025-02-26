@@ -1,0 +1,32 @@
+/* src/components/Features.css */
+.features {
+  padding: 60px 20px;
+  background-color: #f9f9f9; /* Color de fondo claro */
+  text-align: center;
+}
+
+.features h2 {
+  font-size: 2.5rem;
+  margin-bottom: 40px;
+}
+
+.features-list {
+  display: flex;
+  justify-content: space-around; /* Distribución en línea */
+  flex-wrap: wrap; /* Para que se acomode en pantallas pequeñas */
+}
+
+.feature-item {
+  background: white; /* Fondo blanco para cada característica */
+  border: 1px solid #ddd; /* Bordes sutiles */
+  border-radius: 8px; /* Bordes redondeados */
+  padding: 20px;
+  margin: 10px;
+  width: 30%; /* Ancho del 30% para tres características en fila */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
+
+.feature-item h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,64 @@
+/* src/components/Pricing.css */
+.pricing {
+  padding: 60px 20px;
+  text-align: center;
+  background: #f8f9fa;
+}
+
+.pricing h2 {
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+}
+
+.pricing-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.pricing-card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  width: 300px;
+  text-align: center;
+}
+
+.pricing-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.price {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #007bff;
+  margin: 10px 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  /* margin: 8px 0; */
+}
+
+button {
+  margin-top: 15px;
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background: #0056b3;
+}
